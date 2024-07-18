@@ -1,0 +1,6 @@
+repositories:
+  - name: deliveryhero
+    url: https://charts.deliveryhero.io/
+
+  - name: kubecost
+    url: https://charts.jetstack.io
